@@ -1,20 +1,19 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-# Serendipity for [Platform]
+# Serendipity for Adobe Color File ( ACO )
 
 
 # Installation
 
-1. Open **X**.
-2. Search for **X**
-3. Click **X** to do **X**
+1. Open your swatch library.
+2. Upload the files with .aco extensions
 
-# Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
+# Palette
+![palette](https://github.com/Serendipity-Theme/assets/blob/main/palette.png?raw=true)
 
 # Who ported the theme?
+- Michael Andreuzza
 
-# Standard formatting
-- Add the same header on the repo
-- Call the repo as the app you are porting for.
+# Thanks to:
+- [Pablo Lara](https://twitter.com/pablolarah)
 
